@@ -1,0 +1,4 @@
+1. Install the required modules using python pip the module required are "SimpleTransformers" and "mysql-connector" "Flask"
+2. In cmd go to the project directory and use the command "python -m flask run". This command will run a webserver from were we can access the ui of the project
+3. In the article box you paste the article and in the quesition box you enter the question which you want to ask.
+4. The option dump database shows you a different page with all the articles and their questions along with the result.
